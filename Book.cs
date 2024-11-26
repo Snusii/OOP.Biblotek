@@ -1,5 +1,3 @@
-using System.Dynamic;
-
 class Book {
     public string title;
     public string author;

@@ -1,7 +1,4 @@
-﻿
-using System.Drawing;
-
-List<Book> myBorrowedBookList = new List<Book>();
+﻿List<Book> myBorrowedBookList = new List<Book>();
 
 Library library = new Library();
 
